@@ -2,6 +2,10 @@
 
 ## 📘 *Created for Real-World Government Workflow Optimization*
 
+![BLO DB Finder PowerBI](res/video.gif)
+
+---
+
 ## 🔍 **Project Overview**
 
 This project was developed to solve a **real and challenging problem faced by BLOs (Booth Level Officers)** in India.
