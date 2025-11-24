@@ -61,7 +61,7 @@ However, Power BI dashboards are **not accessible on mobile without a Premium li
 
 So I built an additional **Python-based Dashboard** that works on any mobile or device.
 
-👉 *GitHub Repo:* **[https://github.com/shloktilokani/BLO-Database-Finder](https://github.com/shloktilokani/BLO-Database-Finder)**
+👉 *GitHub Repo:* **[https://github.com/shloktilokani/BLO-Database-Finder](https://github.com/shloktilokani/BLO-DB-Finder.git)**
 
 ---
 
@@ -185,7 +185,7 @@ It transforms:
 To solve mobile accessibility issues, I created a complementary **Python dashboard**.
 
 👉 **Python Version (Mobile Friendly):**  
-[https://github.com/shloktilokani/BLO-Database-Finder](https://github.com/shloktilokani/BLO-Database-Finder)
+[https://github.com/shloktilokani/BLO-Database-Finder](https://github.com/shloktilokani/BLO-DB-Finder.git)
 
 ---
 
