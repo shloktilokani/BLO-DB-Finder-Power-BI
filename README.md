@@ -87,27 +87,7 @@ Dataset Size: **8+ lakh rows**
 
 ---
 
-### **2️⃣ Power Query Transformations**
-
-In Power Query:
-
-- Converted datatypes
-- Removed null or mis-typed rows
-- Cleaned Gujarati text columns
-- Added custom columns for easier searching
-- Ensured optimized data loading
-
-The **Applied Steps pane** shows:
-
-- Source
-- Navigation
-- Added Custom columns
-- Changed Types
-- Cleaned text field transformations
-
----
-
-### **3️⃣ Dashboard Design in Power BI**
+### **2️⃣ Dashboard Design in Power BI**
 
 The dashboard consists of:
 
