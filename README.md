@@ -1,5 +1,12 @@
 # 🗂️ **BLO Search & Verification Dashboard — Power BI Project**
 
+<!-- ### 📘 *Created for Real-World Government Workflow Optimization* -->
+
+![BLO DB Finder PowerBI](res/video.gif)
+
+<!-- --- -->
+
+
 ## 📄 **Special Intensive Revision (SIR) — Core Context of This Project**
 
 The **Special Intensive Revision (SIR) Form** is the central reason this project exists.  
@@ -29,12 +36,6 @@ The SIR exercise ensures correctness, completeness, and inclusivity.
 ## 🔹 **Where Citizens Access It**
 
 Eligible citizens can typically complete verification through the **ECI Voters’ Service Portal**.
-
----
-
-### 📘 *Created for Real-World Government Workflow Optimization*
-
-![BLO DB Finder PowerBI](res/video.gif)
 
 ---
 
