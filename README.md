@@ -1,6 +1,38 @@
 # 🗂️ **BLO Search & Verification Dashboard — Power BI Project**
 
-## 📘 *Created for Real-World Government Workflow Optimization*
+## 📄 **Special Intensive Revision (SIR) — Core Context of This Project**
+
+The **Special Intensive Revision (SIR) Form** is the central reason this project exists.  
+It is an official enumeration document used by the **Election Commission of India (ECI)** during its **house-to-house verification drive** to update and clean the electoral rolls.
+
+## 🔹 **What the SIR Form Is**
+
+A verification form distributed by **Booth Level Officers (BLOs)** during home visits (and also online), enabling citizens to:
+
+- Verify their voter information  
+- Update incorrect details  
+- Enroll if they are not yet registered  
+
+## 🔹 **Purpose of the SIR Drive**
+
+The SIR process aims to:
+
+- Cleanse electoral databases  
+- Remove *duplicate*, *deceased*, or *shifted* voters  
+- Ensure every eligible citizen is properly included  
+
+## 🔹 **Why It Is Important**
+
+Accurate electoral rolls are the backbone of **free and fair elections**.  
+The SIR exercise ensures correctness, completeness, and inclusivity.
+
+## 🔹 **Where Citizens Access It**
+
+Eligible citizens can typically complete verification through the **ECI Voters’ Service Portal**.
+
+---
+
+### 📘 *Created for Real-World Government Workflow Optimization*
 
 ![BLO DB Finder PowerBI](res/video.gif)
 
